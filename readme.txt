@@ -34,11 +34,17 @@ No, it will maintain the post type you just submitted on the new post.
 
 == Changelog ==
 
+= 1.1 =
+* Fixed a potential security risk ( Thanks to colegeissinger )
+
 = 1.0 =
 * Initial release.
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.1 =
+Upgrade needed to fix potential security risk.
 
-* No upgrade notices.
+
+= 1.0 =
+No upgrade notices.
